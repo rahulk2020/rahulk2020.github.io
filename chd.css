@@ -108,5 +108,9 @@ button{
 h5{
     color: rgb(243, 4, 4);
     text-shadow: 0 0 15px rgb(2, 1, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0.6rem 0rem;
 }
 
